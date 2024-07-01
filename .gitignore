@@ -1,0 +1,4 @@
+myenv/
+stocks/__pycache__/
+stocks/migrations/__pycache__/
+stockapi/__pycache__/
